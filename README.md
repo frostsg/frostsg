@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm frostsg</h1>
-<h3 align="center">A passionate fake engineer</h3>
+<h3 align="center">A student</h3>
 
 - ⚡ Fun fact **I think I am funny**
 
