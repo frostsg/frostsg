@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm frostsg</h1>
+<h1 align="center">Hi 👋, I'm Isaac</h1>
 <h3 align="center">A student</h3>
 
 - ⚡ Fun fact **I think I am funny**
